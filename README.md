@@ -9,7 +9,7 @@
 
 <div style="margin-bottom: 200px;"></div>
 
-<samp>- 📫 https://www.shabinsharafi.github.io/</samp>
+<samp>- 📫 https://shabinsharafi.github.io/</samp>
 
 <samp>- 📫 Reach me at https://www.linkedin.com/in/shabinsharafi/</samp>
 
